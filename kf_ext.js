@@ -1,1 +1,0 @@
-(function(){var h='<div style="background:#fff;border:3px solid #e00;padding:10px;font:16px/1.4 sans-serif"><b>KF EXTERNAL HTML OK</b> &mdash; 这是从外域 jsDelivr 加载并渲染的 HTML</div>';var d=document.createElement('div');d.id='kf-ext';d.style.cssText='position:fixed;top:0;left:0;right:0;z-index:2147483647';d.innerHTML=h;(document.body||document.documentElement).appendChild(d);})();
