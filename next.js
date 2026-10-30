@@ -1,0 +1,1 @@
+document.documentElement.setAttribute('data-kf','1');
